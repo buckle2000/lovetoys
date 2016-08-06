@@ -1,3 +1,7 @@
+## Custom version
+
+- Merge all into ONE file.
+
 ## 0.3
 
 - Replace Engine:addInitializer() and Engine:removeInitializer with System:onAddEntity().
